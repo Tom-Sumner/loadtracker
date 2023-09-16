@@ -3,9 +3,9 @@
     "short_name": "loadtracker",
     "start_url": ".",
     "display": "fullscreen",
-    "background_color": "#FF141526",
-    "theme_color": "#FF141526",
-    "description": "A new Flutter project.",
+    "background_color": "#141526",
+    "theme_color": "#141526",
+    "description": "Simple and sleek load tracker.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
