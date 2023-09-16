@@ -2,7 +2,7 @@
     "name": "loadtracker",
     "short_name": "loadtracker",
     "start_url": ".",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#141526",
     "theme_color": "#141526",
     "description": "Simple and sleek load tracker.",
